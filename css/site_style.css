@@ -31,3 +31,10 @@ text-decoration: none;
   background: #06395d;
 /*  color: #06395d;*/
 }
+
+#nav{
+    background-color: #06395d!important;
+
+}
+nav .nav-link{color: #fff!important;
+}
